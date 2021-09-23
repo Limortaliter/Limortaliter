@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PhilDaiguille/PhilDaiguille)
 ![pv](https://pageview.vercel.app/?github_user=PhilDaiguille)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille)](https://github.com/anuraghazra/github-readme-stats)
+![PhilDaiguille GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille)](https://github.com/anuraghazra/github-readme-stats)
 
 # <p align="center"><span>📚 Skills</span></p>
 
