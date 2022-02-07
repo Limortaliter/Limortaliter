@@ -1,7 +1,6 @@
 # Stats Github
 ![GitHub last commit](https://img.shields.io/github/last-commit/PhilDaiguille/Portfolio_PhilDaiguille)
 ![pv](https://pageview.vercel.app/?github_user=PhilDaiguille/PhilDaiguille/Portfolio_PhilDaiguille)
-![pv](https://pageview.vercel.app/?github_user=PhilDaiguille/Script_Python_Web)
 
 ![PhilDaiguille GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille)](https://github.com/anuraghazra/github-readme-stats)
 
