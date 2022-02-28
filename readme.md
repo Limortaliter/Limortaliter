@@ -7,19 +7,18 @@
 # <p align=center>🌿 Sofware Skills</p>
 
 <p align=center>
-  <img src="https://img.shields.io/badge/-VS%20Code-blue?label=%20&logo=Visual%20Studio%20Code&labelColor=black&logoColor=31A4F1&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-Java-FF9300?label=%20&logo=Java&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-3498db?label=%20&logo=Python&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-e74c3c?label=%20&logo=HTML5&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-3498db?label=%20&logo=CSS3&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-Javascript-f1c40f?label=%20&logo=Javascript&labelColor=black&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-PHP-2980b9?label=%20&logo=PHP&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-VS%20Code-blue?label=%20&logo=Visual%20Studio%20Code&labelColor=222222&logoColor=31A4F1&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-Java-FF9300?label=%20&logo=Java&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-Python-3498db?label=%20&logo=Python&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-HTML5-e74c3c?label=%20&logo=HTML5&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-CSS3-3498db?label=%20&logo=CSS3&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-Javascript-f1c40f?label=%20&logo=Javascript&labelColor=222222&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-PHP-2980b9?label=%20&logo=PHP&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/-Windows-0078D6?label=%20&logo=Windows&labelColor=black&logoColor=0078D6&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-Windows-0078D6?label=%20&logo=Windows&labelColor=222222&logoColor=0078D6&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
+  <img style="border:solid .1rem #000; border-radius:.4rem" src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">
 </p>
-
 # <p align=center> 📭 Contact </p>
 
 
