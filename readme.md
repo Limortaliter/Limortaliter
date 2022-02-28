@@ -1,4 +1,4 @@
-# Stats Github - PhilDaiguille
+# 🦊 Stats Github - PhilDaiguille
 
 <div align=center>
 	<img align=center src="https://metrics.lecoq.io/PhilDaiguille?template=classic&base.community=0&languages=1&achievements=1&people=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=20&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis&config.twemoji=true&config.octicon=true&config.display=large&config.presets=%40lunar-red">
