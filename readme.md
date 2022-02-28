@@ -1,35 +1,42 @@
-# Stats Github
-![GitHub last commit](https://img.shields.io/github/last-commit/PhilDaiguille/Portfolio_PhilDaiguille)
-![pv](https://pageview.vercel.app/?github_user=PhilDaiguille/PhilDaiguille)
+# Stats Github - PhilDaiguille
 
-![PhilDaiguille GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+	<img align=center src="https://metrics.lecoq.io/PhilDaiguille?template=classic&base.community=0&languages=1&achievements=1&people=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=20&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis&config.twemoji=true&config.octicon=true&config.display=large&config.presets=%40lunar-red">
+</div>
 
-# <p align="center"><span>📚 Skills</span></p>
+# <p align=center><span>🌿 Sofware Skills</span></p>
 
-<table align="center">
-	<thead>
-		<tr>
-			<th colspan="3"><b>Languages</b></th>
-			<th colspan="3"><b>Softwares</b></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/HTML">HTML</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/CSS">CSS</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/SQL">SQL</a></td>
-			<td align="center"><a href="https://visualstudio.microsoft.com/">Visual Studio</a></td>
-            <td align="center"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/Git">Git</a></td>
-		</tr>
-		<tr>
-			<td align="center"><a href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></td>
-            <td align="center"><a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></td>
-            <td align="center"><a href="https://www.adobe.com/products/illustrator.html">Illustrator</a></td>
-            <td align="center"><a href="https://code.visualstudio.com/">VS Code</a></td>
-		</tr>
-	</tbody>
-</table>
+<p align=center>
+  <img src="https://img.shields.io/badge/-VS%20Code-blue?label=%20&logo=Visual%20Studio%20Code&labelColor=black&logoColor=31A4F1&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-Java-FF9300?label=%20&logo=Java&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-3498db?label=%20&logo=Python&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-e74c3c?label=%20&logo=HTML5&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-3498db?label=%20&logo=CSS3&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-Javascript-f1c40f?label=%20&logo=Javascript&labelColor=black&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-PHP-2980b9?label=%20&logo=PHP&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/-Windows-0078D6?label=%20&logo=Windows&labelColor=black&logoColor=0078D6&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">
+</p>
+# <p align="center"><span>📭 Contact</span></p>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/philippe-delente-7117a6203/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:philippe.delente@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://twitter.com/Phildattente">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+	</a>
+	<span>&nbsp;</span>
+	<a href="https://phildaiguille.github.io/Portfolio_PhilDaiguille/">
+		<img src="https://img.shields.io/badge/-PhilDaiguille.COM-34495e?style=for-the-badge&logo=react&logoColor=white">
+	</a>
+</p>
 
 <br>
