@@ -4,7 +4,7 @@
 	<img align=center src="https://metrics.lecoq.io/PhilDaiguille?template=classic&base.community=0&languages=1&achievements=1&people=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=20&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis&config.twemoji=true&config.octicon=true&config.display=large&config.presets=%40lunar-red">
 </div>
 
-# 🌿 Sofware Skills
+# <p align=center>🌿 Sofware Skills</p>
 
 <p align=center>
   <img src="https://img.shields.io/badge/-VS%20Code-blue?label=%20&logo=Visual%20Studio%20Code&labelColor=black&logoColor=31A4F1&style=for-the-badge&logoWidth=15">&nbsp;
@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=black&logoColor=FFFFFF&style=for-the-badge&logoWidth=15">
 </p>
-# 📭 Contact
+
+# <p align=center> 📭 Contact </p>
+
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/philippe-delente-7117a6203/">
