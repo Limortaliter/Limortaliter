@@ -1,7 +1,10 @@
 # Stats Github - PhilDaiguille
+<div align="center">
 
-<div align=center>
-	<img align=center src="https://metrics.lecoq.io/PhilDaiguille?template=classic&base.community=0&languages=1&achievements=1&people=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=20&people.limit=24&people.identicons=true&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Europe%2FParis&config.twemoji=true&config.octicon=true&config.display=large&config.presets=%40lunar-red">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 # <p align=center><span>🌿 Sofware Skills</span></p>
@@ -10,7 +13,6 @@
   <img src="https://img.shields.io/badge/-VS%20Code-blue?label=%20&logo=Visual%20Studio%20Code&labelColor=222222&logoColor=31A4F1&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-Java-FF9300?label=%20&logo=Java&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-Python-3498db?label=%20&logo=Python&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
-  <br>
   <img src="https://img.shields.io/badge/-HTML5-e74c3c?label=%20&logo=HTML5&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-3498db?label=%20&logo=CSS3&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-Javascript-f1c40f?label=%20&logo=Javascript&labelColor=222222&style=for-the-badge&logoWidth=30">&nbsp;
