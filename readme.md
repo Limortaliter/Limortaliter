@@ -1,11 +1,14 @@
-# Stats Github - PhilDaiguille
 <div align="center">
+
+# 🦉 Stats Github - PhilDaiguille 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<br>
 
 # <p align=center><span>🌿 Sofware Skills</span></p>
 
@@ -22,6 +25,8 @@
   <img src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">
 </p>
+
+<br>
 
 # <p align="center"><span>📭 Contact</span></p>
 
