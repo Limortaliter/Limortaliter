@@ -2,9 +2,9 @@
 
 # 🦉 Stats Github - PhilDaiguille 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark))
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=PhilDaiguille&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&layout=compact&theme=dark))
 
 </div>
 
