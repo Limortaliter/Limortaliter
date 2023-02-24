@@ -2,7 +2,7 @@
 
 # 🦉 Stats Github - PhilDaiguille 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark&hide=HTML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark&hide=HTML,Hack)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&layout=compact&theme=dark)
 
