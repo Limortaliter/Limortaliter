@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=phildaiguille&label=Profile%20views&color=0e75b6&style=flat" alt="phildaiguille" />
 <div align="center">
 
 # 🦉 Stats Github - PhilDaiguille 
@@ -9,7 +8,12 @@
 
 	
 </div>
-
+<br>
+<div align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhilDaiguille/Portfolio_PhilDaiguille/master/assets/github-user-contribution.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhilDaiguille/Portfolio_PhilDaiguille/master/assets/github-user-contribution.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PhilDaiguille/Portfolio_PhilDaiguille/master/assets/github-user-contribution.svg">
+</div>
 <br>
 
 # <p align=center><span>🌿 Sofware Skills</span></p>
