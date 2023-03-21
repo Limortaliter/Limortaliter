@@ -2,7 +2,7 @@
 
 # 🦉 Stats Github - PhilDaiguille 
 	
-<img width="299px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark&hide=HTML,Hack" alt="phildaiguille" />
+<img width="299px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark&hide=HTML,Hack,CSS" alt="phildaiguille" />
 <img width="392px" align="center" src="https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&layout=compact&theme=dark" alt="phildaiguille" />
 <img width="415px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phildaiguille&theme=dark" alt="phildaiguille" />
 
