@@ -16,7 +16,7 @@
 </div>
 <br>
 
-# <p align=center><span>🌿 Sofware Skills</span></p>
+# <p align=center><span>🌿 Software Skills</span></p>
 
 <p align=center>
   <img src="https://img.shields.io/badge/-VS%20Code-blue?label=%20&logo=Visual%20Studio%20Code&labelColor=222222&logoColor=31A4F1&style=for-the-badge&logoWidth=30">&nbsp;
