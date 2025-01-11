@@ -30,12 +30,12 @@
   <img src="https://img.shields.io/badge/-Javascript-f1c40f?label=%20&logo=Javascript&labelColor=222222&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-PHP-2980b9?label=%20&logo=PHP&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-Symfony-000000?label=%20&logo=Symfony&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">
-</p>
   <br>
   <img src="https://img.shields.io/badge/-Windows-0078D6?label=%20&logo=Windows&labelColor=222222&logoColor=0078D6&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">
 <br>
+</p>
 
 # <p align="center"><span>📭 Contact</span></p>
 
