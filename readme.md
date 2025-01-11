@@ -1,12 +1,15 @@
 <div align="center">
 
-# 🦉 Stats Github - PhilDaiguille 
-	
+# 🦉 Stats Github - PhilDaiguille
+
 <img width="299px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilDaiguille&layout=compact&theme=dark&hide=HTML,Hack,CSS" alt="phildaiguille" />
 <img width="392px" align="center" src="https://github-readme-stats.vercel.app/api?username=PhilDaiguille&show_icons=true&layout=compact&theme=dark" alt="phildaiguille" />
 <img width="415px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phildaiguille&theme=dark" alt="phildaiguille" />
 
-	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilDaiguille&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilDaiguille&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhilDaiguille&theme=github_dark) 
+
 </div>
 <br>
 <div align="center">
@@ -26,12 +29,12 @@
   <img src="https://img.shields.io/badge/-CSS3-3498db?label=%20&logo=CSS3&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-Javascript-f1c40f?label=%20&logo=Javascript&labelColor=222222&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-PHP-2980b9?label=%20&logo=PHP&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
+  <img src="https://img.shields.io/badge/-Symfony-000000?label=%20&logo=Symfony&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">
+</p>
   <br>
   <img src="https://img.shields.io/badge/-Windows-0078D6?label=%20&logo=Windows&labelColor=222222&logoColor=0078D6&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-Linux-0078D6?label=%20&logo=Linux&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-24292E?label=%20&logo=GitHUb&labelColor=222222&logoColor=FFFFFF&style=for-the-badge&logoWidth=30">
-</p>
-
 <br>
 
 # <p align="center"><span>📭 Contact</span></p>
